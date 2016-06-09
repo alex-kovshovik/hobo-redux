@@ -1,0 +1,24 @@
+{
+  "name": "hobo-redux",
+  "version": "1.0.0",
+  "description": "Simple family budget application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aspushkinus/hobo-redux.git"
+  },
+  "keywords": [
+    "budgets",
+    "family",
+    "organizer"
+  ],
+  "author": "Alex Kovshovik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aspushkinus/hobo-redux/issues"
+  },
+  "homepage": "https://github.com/aspushkinus/hobo-redux#readme"
+}
